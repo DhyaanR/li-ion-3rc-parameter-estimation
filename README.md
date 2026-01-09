@@ -21,10 +21,6 @@ Generates Simulink-ready lookup tables of **R0, R1-C1, R2-C2, R3-C3 vs SOC** and
 - `results/` estimated parameters and plots
 - `scripts/` runnable entry points
 
-## Quick Start
-1. Put your dataset exports in `data/raw/` (kept local, not committed)
-2. Run the pipeline:
-```matlab
-scripts/run_pipeline.m
+
 
 
